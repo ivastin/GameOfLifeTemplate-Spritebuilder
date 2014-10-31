@@ -273,7 +273,7 @@
 												<key>value</key>
 												<array>
 													<real>44</real>
-													<real>76</real>
+													<real>59</real>
 													<integer>0</integer>
 													<integer>0</integer>
 													<integer>0</integer>
@@ -305,12 +305,20 @@
 											</dict>
 											<dict>
 												<key>name</key>
+												<string>rotation</string>
+												<key>type</key>
+												<string>Degrees</string>
+												<key>value</key>
+												<real>-0.65063691139221191</real>
+											</dict>
+											<dict>
+												<key>name</key>
 												<string>string</string>
 												<key>type</key>
 												<string>Text</string>
 												<key>value</key>
 												<array>
-													<string>Sample Text</string>
+													<string>0</string>
 													<false/>
 												</array>
 											</dict>
@@ -479,8 +487,8 @@
 												<string>Position</string>
 												<key>value</key>
 												<array>
-													<real>83</real>
-													<real>114</real>
+													<real>48</real>
+													<real>81</real>
 													<integer>0</integer>
 													<integer>0</integer>
 													<integer>0</integer>
@@ -517,7 +525,7 @@
 												<string>Text</string>
 												<key>value</key>
 												<array>
-													<string>Sample Text</string>
+													<string>0</string>
 													<false/>
 												</array>
 											</dict>
@@ -687,7 +695,7 @@
 												<key>value</key>
 												<array>
 													<real>46</real>
-													<real>38</real>
+													<real>78</real>
 													<integer>0</integer>
 													<integer>0</integer>
 													<integer>0</integer>
@@ -724,7 +732,7 @@
 												<string>Text</string>
 												<key>value</key>
 												<array>
-													<string>Sample Text</string>
+													<string>Population</string>
 													<false/>
 												</array>
 											</dict>
@@ -907,8 +915,8 @@
 												<string>Point</string>
 												<key>value</key>
 												<array>
-													<real>0.5</real>
-													<real>1.09033203125</real>
+													<real>0.5112452507019043</real>
+													<real>-0.4814453125</real>
 												</array>
 											</dict>
 											<dict>
@@ -931,7 +939,7 @@
 												<string>Text</string>
 												<key>value</key>
 												<array>
-													<string>Sample Text</string>
+													<string>Generation</string>
 													<false/>
 												</array>
 											</dict>
@@ -1150,6 +1158,8 @@
 										</array>
 									</dict>
 								</array>
+								<key>selected</key>
+								<true/>
 							</dict>
 							<dict>
 								<key>UUID</key>
@@ -2014,8 +2024,6 @@
 						<string>Grid.ccb</string>
 					</dict>
 				</array>
-				<key>selected</key>
-				<true/>
 			</dict>
 		</array>
 		<key>customClass</key>
